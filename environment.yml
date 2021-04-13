@@ -1,0 +1,7 @@
+name: sampa
+channels:
+  - conda-forge
+dependencies:
+  - uproot=4.0.*
+  - ipympl=0.7.*
+  - jupyter=1.0.*
