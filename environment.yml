@@ -5,3 +5,4 @@ dependencies:
   - uproot=4.0.*
   - ipympl=0.7.*
   - jupyter=1.0.*
+  - boost-histogram=1.0.*
